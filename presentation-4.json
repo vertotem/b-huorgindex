@@ -1,0 +1,227 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 404,
+          "y": 337,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>你好呀</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 517,
+          "y": 463,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>* 推荐使用电脑访问此页，否则可能会有bug</font>",
+          "size": 25,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 1,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 712,
+      "y": 43
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 368,
+          "y": 337,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>欢迎来到</font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0.58,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 706,
+      "y": 164
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 107,
+          "y": 283,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>B-HU.ORG</font>",
+          "size": 169,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 10,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 751,
+      "y": 301
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 224,
+          "y": 337,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "此域名归<a href=\"https://mo.b-hu.org/\">梦貘</a>所有<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 1,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1249,
+      "y": 307
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 116,
+          "y": 337,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>这个页面超酷的，对吧？</font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": -2500,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 3.14,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 716,
+      "y": 549
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 395,
+          "y": 370,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>由<a href=\"https://impress.js.org/\">impress.js</a>提供技术支持</font>",
+          "size": 21,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.68,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 255,
+      "y": 286
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 404,
+        "y": 337,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font>你好呀</font>",
+        "size": 72,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 517,
+        "y": 463,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font>* 推荐使用电脑访问此页，否则可能会有bug</font>",
+        "size": 25,
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 1,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 712,
+    "y": 43
+  },
+  "fileName": "presentation-4",
+  "surface": "bg-surf-grad-darkgreen",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 752,
+  "overviewY": 296
+}
